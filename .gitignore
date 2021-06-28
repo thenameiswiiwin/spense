@@ -1,0 +1,6 @@
+node_module/
+.DS_Store
+
+package-lock.json
+style-guide.md
+TODO.md
